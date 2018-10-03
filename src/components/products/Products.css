@@ -1,0 +1,32 @@
+.flex-papa{
+    display:flex;
+    flex-direction: row;
+}
+
+.product-card{
+    box-shadow: 1px 1px 1px 1px;
+    border-color:gray;
+    padding:10px;
+    margin:20px;
+    text-align: left;
+}
+
+.product-card img{
+    width:100px;
+}
+
+.product-card:hover{
+    box-shadow: 2px 4px 5px 1px;
+    border-color:gray;
+    padding:5px;
+    margin:20px;
+}
+
+.colorsin{
+    border-radius: 50%;
+    width:10px;
+    height: 10px;
+    background-color: blueviolet;
+    border: 1px solid black;
+
+}

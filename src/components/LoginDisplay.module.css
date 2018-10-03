@@ -1,0 +1,27 @@
+.pollollon{
+    display:flex;
+    flex-direction: column;
+    padding:10px;
+    background-color: brown;
+    height:50vh;
+    width:100vw;
+    
+}
+
+.pollollon input{
+    width:300px;
+    padding:10px;
+    margin:10px;
+}
+
+.success{
+    background-color: green;
+}
+
+.warning{
+    background-color: yellow;
+}
+
+.wrong{
+    background-color: red;
+}
